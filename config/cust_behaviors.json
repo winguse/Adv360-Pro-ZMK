@@ -3,7 +3,7 @@
 		"code": "&ym",
 		"name": "&ym",
 		"params": [
-			"code"
+			"code", "code"
 		],
 		"type": "UD"
 	}
