@@ -1,0 +1,11 @@
+[
+	{
+		"code": "&ym",
+		"name": "&ym",
+		"params": [
+			"code",
+			"code"
+		],
+		"type": "UD"
+	}
+]
