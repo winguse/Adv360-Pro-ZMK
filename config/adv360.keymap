@@ -74,7 +74,7 @@
         macro_sqrt_brackets: macro_sqrt_brackets {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LBKT &kp LBRC &kp LEFT>;
+            bindings = <&kp LBKT &kp RIGHT_BRACKET &kp LEFT>;
             label = "MACRO_SQRT_BRACKETS";
         };
     };
